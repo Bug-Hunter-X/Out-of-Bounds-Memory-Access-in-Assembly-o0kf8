@@ -1,0 +1,1 @@
+This repository contains an example of an out-of-bounds memory access bug in assembly language and its solution. The bug arises from the use of an unconstrained index register in memory addressing, leading to potential crashes or unpredictable behavior. The solution demonstrates safe memory access practices. 
